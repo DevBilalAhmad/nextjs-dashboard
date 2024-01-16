@@ -85,7 +85,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-     <p>Main page </p>
+     <p>edited page</p>
       
     </div>
   )
